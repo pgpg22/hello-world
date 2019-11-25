@@ -1,2 +1,2 @@
 # hello-world
-new
+Things those hurt that instruct (from Wings of fire)
