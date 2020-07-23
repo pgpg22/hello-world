@@ -7,6 +7,13 @@
   <version>1.0</version>
   <name>Liquor Shop Demo</name>
   <url>https://thinknyx.com</url>
+	
+	<properties>
+  <sonar.projectKey>pgpg22_hello-world</sonar.projectKey>
+  <sonar.organization>pgpg22</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>99ea7868a4823bf70e8dddec80745d82a694513e</sonar.login>
+</properties>
     
   <properties>
     <sonar.projectKey>kmayer10_liquor-shop-demo</sonar.projectKey>
